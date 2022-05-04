@@ -3,7 +3,7 @@ students = int(input())
 
 students_grade = list(map(int, input().split()))
 
-ave = round(sum(students_grade)/students)
+ave = int(sum(students_grade)/students + 0.5)
 
 min = float('inf')
 
