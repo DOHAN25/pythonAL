@@ -15,13 +15,3 @@ for i in range(n+m+1):
     if result[i]==max:
         print(i, end=' ')
 
-
-
-
-
-
-
-
-
-
-

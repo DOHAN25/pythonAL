@@ -14,3 +14,6 @@ def towSum(nums, target):
                 return [i, j]
 
 print(towSum(nums, target))
+
+
+
