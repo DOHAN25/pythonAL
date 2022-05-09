@@ -20,8 +20,6 @@ def isPrime(x):
 
 
 
-
-
 for x in reverse(num_list):
     if isPrime(x):
         print(x, end=" ")
